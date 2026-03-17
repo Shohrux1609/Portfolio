@@ -1,6 +1,7 @@
 Student Performance KPI Analysis
 
 **Overview**
+
 This project presents a data analysis and KPI evaluation of student performance using Python.
 The goal is to explore how different factors such as gender, parental education, and test preparation influence academic results.
 
@@ -11,6 +12,7 @@ group comparison
 visualization of insights
 
 **Dataset**
+
 The dataset contains 1000 student records with the following features:
 Gender
 Race/Ethnicity
@@ -22,6 +24,7 @@ Reading Score
 Writing Score
 
 **Tools**
+
 Python
 Pandas
 Matplotlib
@@ -38,6 +41,7 @@ Impact of Parental Education
 Correlation between subjects
 
 **Analysis Performed**
+
 1. Data Preparation
 Loaded dataset using Pandas
 Verified structure and data types
@@ -56,6 +60,7 @@ Correlation heatmap
 KPI-based insights
 
 **Key Insights**
+
 Students who completed test preparation courses tend to have higher average scores
 There are noticeable performance differences across demographic groups
 Scores in math, reading, and writing are positively correlated
